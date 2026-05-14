@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: welcome <3
 ---
 hi im glue\
 this is my where i organize stuff i've done\
