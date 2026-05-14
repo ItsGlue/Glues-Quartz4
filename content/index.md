@@ -3,9 +3,12 @@ title: welcome <3
 ---
 hi im glue\
 this is my where i organize stuff i've done\
-feel free to take a look around
+feel free to take a look around\
 
-[[FRC]]
+this space is structured with [[hyperlinks]]\
+click them to navigate the site
+
+[[FIRST]]
 [[SET]]
 [[QESI]]
 [[Redstone]]
