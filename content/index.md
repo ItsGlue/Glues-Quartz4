@@ -1,12 +1,13 @@
 ---
 title: welcome <3
 ---
-hi im glue\
+hi i'm glue\
 this is my where i organize stuff i've done\
 feel free to take a look around
 
-this space is structured with [[hyperlinks]]\
-click them to navigate the site
+this is a [[hyperlink]]\
+click them to navigate the site\
+alternatively, use the graph (top right)
 
 
 **projects:**\
@@ -14,4 +15,7 @@ click them to navigate the site
 [[SET]]\
 [[QESI]]\
 [[Redstone]]\
-[[Unity]]
+[[Unity]]\
+[[Misc]]
+
+
