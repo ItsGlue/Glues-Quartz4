@@ -1,1 +1,1 @@
-game
+>games i've developed: https://glueissticky.itch.io/
